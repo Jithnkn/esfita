@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "156216667349",
+    "project_id": "esfita-ee515",
+    "storage_bucket": "esfita-ee515.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156216667349:android:ace6e681db779442e2065c",
+        "android_client_info": {
+          "package_name": "com.example.esfita"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156216667349-4j6tnp2sjegto3h4nu8jihthu4n3e7dq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjRREoRyTk3H8eCthmpGgHLq9-M5F1c8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156216667349-4j6tnp2sjegto3h4nu8jihthu4n3e7dq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
